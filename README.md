@@ -1,5 +1,3 @@
-[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 ## Hi there 👋
 
 I'm Jaroslav! I've been a **Software Engineer** for more than 15 years now. When I'm not working, I love contributing to open-source projects. You'll see a bunch of random stuff on my profile – they're all things I've created at some point to simplify my life or when I'm messing around with new technologies. Who knows, they might just come in handy for you too!
