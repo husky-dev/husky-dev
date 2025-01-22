@@ -10,7 +10,7 @@ I'm Jaroslav! I've been a **Software Engineer** for more than 15 years now. When
 - 🏋️‍♂️ I'm a CrossFit enthusiast – keeps my body and mind in shape.
 - 🏍️ Cruising around on my Honda Hornet CB600F.
 - 🏔️ I've hiked to the 🇳🇵Everest Base Camp, reached the peak of 🇹🇿 Kilimanjaro, and climbed 🇺🇦 Hoverla.
-- 📝 Writing [my blog](https://husky-dev.me/blog/) time to time.
+- 📝 Writing [my blog](https://blog.husky-dev.me/en/) time to time.
 - 🛫 At non-war time, I love to travel:<br/>🇺🇸 🇬🇧 🇸🇬 🇳🇿 🇯🇵 🇹🇿 🇳🇦 🇳🇵 🇱🇰 🇵🇪 🇵🇱 🇩🇪 🇮🇹 🇦🇹 🇵🇹 🇬🇷 🇬🇪
 
 ### Stats
